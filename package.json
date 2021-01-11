@@ -1,0 +1,19 @@
+{
+  "name": "talks-with-homey",
+  "version": "0.0.1",
+  "description": "Here you can find all the components which talk with Homey",
+  "main": "index.js",
+  "authors": {
+    "name": "Wim Vandevenne",
+    "email": "info@wiven.be"
+  },
+  "repository": "https://github.com/wiven/talks-with-homey",
+  "scripts": {
+    "dev": "vuepress dev docs/src",
+    "build": "vuepress build docs/src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
