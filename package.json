@@ -15,5 +15,9 @@
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "sass": "^1.32.4",
+    "sass-loader": "^10.1.1"
   }
 }

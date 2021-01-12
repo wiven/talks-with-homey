@@ -7,3 +7,5 @@ footer: Made by Wim Vandevenne with ❤️ 🚀
 ---
 
 ![Image from alias](./images/talks-with-homey.png)
+
+<star-rating :rating="1" />
